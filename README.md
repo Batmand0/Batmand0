@@ -1,16 +1,46 @@
-### Hi there 👋
+# 👋 Hola, soy Armando Armendariz Magaña
 
-<!--
-**Batmand0/Batmand0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería en Sistemas Computacionales y me apasiona el desarrollo web, la automatización de procesos y la electrónica con Arduino. Me gusta crear cosas útiles, aprender nuevas tecnologías y encontrar soluciones prácticas a problemas reales.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Un poco sobre mí
+
+- 🧑‍💻 Me gusta trabajar en proyectos full stack  
+- ⚙️ Disfruto optimizar código y mejorar el rendimiento de las apps  
+- 🤖 También me interesa la electrónica y he trabajado con Arduino y sensores  
+- 📅 Me gusta automatizar tareas con herramientas como Google Apps Script  
+- 🔍 Actualmente busco una oportunidad para integrarme al mundo laboral con el modelo dual de mi instituto
+
+---
+
+### 🛠️ Tecnologías que uso
+
+- **Frontend:** HTML, CSS, JavaScript (ES6+), React + Vite, Bootstrap  
+- **Backend:** C# con ASP.NET Core (MVC, Dapper), Node.js + Express, Django  
+- **Bases de datos:** MySQL, SQL Server, MariaDB, MongoDB  
+- **Otros:** Git, GitHub, Google Apps Script, Arduino, Ubuntu Server, Nginx, Apache2
+
+---
+
+### 📌 Proyectos destacados
+
+- **Plataforma de estadísticas estudiantiles:** React + Django + MariaDB  
+- **Calendario académico interactivo:** HTML/CSS/JS con integración de Google Calendar  
+- **Sistema de gestión de empleados:** ASP.NET Core MVC con SQL Server  
+
+---
+
+### 📫 Contacto
+
+📧 armendarizmaganaarmando@gmail.com  
+📱 (686) 421-2041  
+🔗 [Mi GitHub](https://github.com/Batmand0)
+
+---
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+
+
+Gracias por visitar mi perfil 🙌 ¡Estoy abierto a colaborar o aprender en nuevos proyectos!
