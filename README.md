@@ -34,6 +34,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y me apasiona el desar
 ### 📫 Contacto
 
 📧 armendarizmaganaarmando@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/armando-armendariz-magaña-16499628b)
 📱 (686) 421-2041  
 🔗 [Mi GitHub](https://github.com/Batmand0)
 
