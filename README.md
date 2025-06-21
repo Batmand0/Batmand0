@@ -1,6 +1,6 @@
 # 👋 Hola, soy Armando Armendariz Magaña
 
-Soy estudiante de Ingeniería en Sistemas Computacionales y me apasiona el desarrollo web, la automatización de procesos y la electrónica con Arduino. Me gusta crear cosas útiles, aprender nuevas tecnologías y encontrar soluciones prácticas a problemas reales.
+Soy estudiante de Ingeniería en Sistemas Computacionales y me apasiona el desarrollo web y la automatización de procesos. Me gusta crear cosas útiles, aprender nuevas tecnologías y encontrar soluciones prácticas a problemas reales.
 
 ---
 
