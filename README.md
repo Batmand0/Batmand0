@@ -8,23 +8,22 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y me apasiona el desar
 
 - 🧑‍💻 Me gusta trabajar en proyectos full stack  
 - ⚙️ Disfruto optimizar código y mejorar el rendimiento de las apps  
-- 🤖 También me interesa la electrónica y he trabajado con Arduino y sensores  
 - 📅 Me gusta automatizar tareas con herramientas como Google Apps Script  
-- 🔍 Actualmente busco una oportunidad para integrarme al mundo laboral con el modelo dual de mi instituto
 
 ---
 
 ### 🛠️ Tecnologías que uso
 
-- **Frontend:** HTML, CSS, JavaScript (ES6+), React + Vite, Bootstrap  
-- **Backend:** C# con ASP.NET Core (MVC, Dapper), Node.js + Express, Django  
-- **Bases de datos:** MySQL, SQL Server, MariaDB, MongoDB  
-- **Otros:** Git, GitHub, Google Apps Script, Arduino, Ubuntu Server, Nginx, Apache2
+- **Frontend:** React + Vite, Bootstrap, Material UI, Tailwind
+- **Backend:** C# con ASP.NET Core (MVC, Dapper), JS: Node.js + Express, Python: Django y FastAPI
+- **Bases de datos:** PostgreSQL, SQL Server, MySQL, MariaDB, MongoDB  
+- **Otros:** Git, GitHub, Google Apps Script, Ubuntu Server, Nginx, Apache2, n8n
 
 ---
 
 ### 📌 Proyectos destacados
 
+- **Sitio web para gestión de trabajo: ** React + FastAPI + PostgreSQL
 - **Plataforma de estadísticas estudiantiles:** React + Django + MariaDB  
 - **Calendario académico interactivo:** HTML/CSS/JS con integración de Google Calendar  
 - **Sistema de gestión de empleados:** ASP.NET Core MVC con SQL Server  
