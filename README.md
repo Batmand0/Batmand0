@@ -8,7 +8,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y me apasiona el desar
 
 - 🧑‍💻 Me gusta trabajar en proyectos full stack  
 - ⚙️ Disfruto optimizar código y mejorar el rendimiento de las apps  
-- 📅 Me gusta automatizar tareas con herramientas como Google Apps Script  
+- 📅 Me gusta automatizar flujos de trabajo en entorno de Google con Google Apps Script  
 
 ---
 
