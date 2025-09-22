@@ -23,7 +23,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y me apasiona el desar
 
 ### 📌 Proyectos destacados
 
-- **Sitio web para gestión de trabajo: ** React + FastAPI + PostgreSQL
+- **Sitio web para gestión de trabajo:** React + FastAPI + PostgreSQL
 - **Plataforma de estadísticas estudiantiles:** React + Django + MariaDB  
 - **Calendario académico interactivo:** HTML/CSS/JS con integración de Google Calendar  
 - **Sistema de gestión de empleados:** ASP.NET Core MVC con SQL Server  
